@@ -65,9 +65,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Discord',
-      icon: 'bot',
-      link: 'https://discord.com/app',
+      name: 'Temp Mail,
+      icon: 'trash',
+      link: 'https://temporarymail.com/',
     },
     {
       id: '4',
@@ -77,9 +77,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'glasses',
-      link: 'https://reddit.com',
+      name: 'Refind',
+      icon: 'search',
+      link: '',
     },
     {
       id: '6',
@@ -169,8 +169,8 @@ const CONFIG = {
           link: 'https://www.dribbble.com',
         },
         {
-          name: 'Trello',
-          link: 'https://www.trello.com',
+          name: 'Deepstash',
+          link: 'https://www.deepstash.com',
         },
         {
           name: 'Slack',
