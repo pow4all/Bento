@@ -65,7 +65,7 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Temp Mail,
+      name: 'Temp Mail',
       icon: 'trash',
       link: 'https://temporarymail.com/',
     },
