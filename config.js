@@ -55,13 +55,13 @@ const CONFIG = {
       id: '1',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/u/0',
+      link: 'https://mail.proton.me/u/0',
     },
     {
       id: '2',
       name: 'Calendar',
       icon: 'calendar',
-      link: 'https://calendar.protonmail.com/u/0',
+      link: 'https://calendar.proton.me/u/0',
     },
     {
       id: '3',
@@ -79,7 +79,7 @@ const CONFIG = {
       id: '5',
       name: 'Refind',
       icon: 'search',
-      link: '',
+      link: 'https://refind.com',
     },
     {
       id: '6',
