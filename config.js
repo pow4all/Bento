@@ -77,9 +77,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Refind',
-      icon: 'search',
-      link: 'https://refind.com',
+      name: 'Music',
+      icon: 'headphones',
+      link: 'https://my.pcloud.com/#page=audio&autab=tab-artists',
     },
     {
       id: '6',
@@ -135,24 +135,24 @@ const CONFIG = {
   // First Links Container
   firstlistsContainer: [
     {
-      icon: 'music',
+      icon: 'code-2',
       id: '1',
       links: [
         {
-          name: 'Inspirational',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'CodeForces',
+          link: 'https://codeforces.com/',
         },
         {
-          name: 'Classic',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'CodeChef',
+          link: 'https://www.codechef.com/',
         },
         {
-          name: 'Oldies',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Learn C++',
+          link: 'https://www.learncpp.com/',
         },
         {
-          name: 'Rock',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'HackerRank', 
+          link: 'https://www.hackerrank.com/',
         },
       ],
     },
@@ -173,8 +173,8 @@ const CONFIG = {
           link: 'https://www.deepstash.com',
         },
         {
-          name: 'Slack',
-          link: 'https://www.slack.com',
+          name: 'Refind',
+          link: 'https://www.refind.com',
         },
       ],
     },
