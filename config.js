@@ -147,8 +147,8 @@ const CONFIG = {
           link: 'https://www.codechef.com/',
         },
         {
-          name: 'Learn C++',
-          link: 'https://www.learncpp.com/',
+          name: 'Solo Learn',
+          link: 'https://www.sololearn.com/learning/1051',
         },
         {
           name: 'HackerRank', 
