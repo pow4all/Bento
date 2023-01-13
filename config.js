@@ -67,7 +67,7 @@ const CONFIG = {
       id: '3',
       name: 'Temp Mail',
       icon: 'trash',
-      link: 'https://temporarymail.com/',
+      link: 'https://www.emailnator.com/',
     },
     {
       id: '4',
@@ -79,7 +79,7 @@ const CONFIG = {
       id: '5',
       name: 'Music',
       icon: 'headphones',
-      link: 'https://my.pcloud.com/#page=audio&autab=tab-artists',
+      link: 'https://open.spotify.com/',
     },
     {
       id: '6',
@@ -139,16 +139,16 @@ const CONFIG = {
       id: '1',
       links: [
         {
-          name: 'CodeForces',
-          link: 'https://codeforces.com/',
+          name: 'USACO',
+          link: 'https://usaco.guide/dashboard/',
         },
         {
           name: 'CodeChef',
           link: 'https://www.codechef.com/',
         },
         {
-          name: 'Solo Learn',
-          link: 'https://www.sololearn.com/learning/1051',
+          name: 'CodeForces',
+          link: 'https://codeforces.com/',
         },
         {
           name: 'HackerRank', 
