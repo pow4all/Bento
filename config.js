@@ -11,9 +11,9 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Devang',
+  name: 'David',
   imageBackground: true,
-  openInNewTab: false,
+  openInNewTab: true,
   twelveHourFormat: false,
 
   // Greetings
@@ -29,7 +29,7 @@ const CONFIG = {
   weatherKey: 'b3661af787767c7a13a6662b5e1c2b60', // Write here your API Key
   weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
-  language: 'en', // More languages in https://openweathermap.org/current#multi
+  language: 'de', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
   defaultLatitude: '27.60',
